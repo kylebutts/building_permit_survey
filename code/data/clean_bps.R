@@ -304,5 +304,5 @@ bps_msa
 
 arrow::write_parquet(
   bps_msa,
-  here("data/base/bps/bps_county_monthly.parquet")
+  here("data/base/bps/bps_msa_monthly.parquet")
 )
